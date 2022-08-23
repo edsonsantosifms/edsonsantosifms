@@ -33,5 +33,5 @@ object EdsonSantos {
 
 ## **GitHub Estatísticas**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsantos&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonsantosifms&theme=dracula&hide_langs_below=1" />
 
